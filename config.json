@@ -1,0 +1,7 @@
+{
+  "brightness_min": 30,
+  "brightness_max": 225,
+  "variance_threshold": 50,
+  "avif_quality": 95,
+  "fps": 2
+}
